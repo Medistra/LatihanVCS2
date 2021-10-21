@@ -17,6 +17,14 @@
 
 ![Gambar 4](screenshot/ss4.png)
 
-<p>5.lanngkah terakhir setelah semmua berhasil masukan perintah "git push -u origin main" untuk mengirimkan perubahan file setelah di commit. conntoh seperti pada gambar berikut : <p>
+<p>setelah semmua berhasil masukan perintah "git push -u origin main" untuk mengirimkan perubahan file setelah di commit. conntoh seperti pada gambar berikut : <p>
 
 ![Gambar 5](screenshot/ss5.png)
+
+## tutorial menambahkan gambar di github
+
+<p> buka file README.md di vsscode lalu masukan perinntah "![Gambar 1](lokasi file gambar/nama gambar)" contohnya sebagai berikut :<p>
+
+![Gambar 6](screenshot/ss6.png)
+
+<p>Note: angka pada perinntah "![Gambar]" di sesuaikan dengan urutan gambar yang di masukan. <p>

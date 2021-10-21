@@ -16,3 +16,7 @@
 <p>4.setelah selesai memmbuat file basic html simmpan kembali file tersebut menggunakan "Ctrl + S". setelah itu buka git bash lalu masukan perintah "cd" dan masukan nama repository-nya. jika telah muncul tulisan "(main)" berwarna biru berarti telah berhasil memasuki repository. masukan perintah "git add" untuk menambahkan file lalu masukan nama file yang ingin di tambahkan, setelah file di tambahkan masukan perintah "git commit -m" untuk menyimpan perubahan yang di lakukan, tetapi tidak ada perubahan pada remote repository. seperti gambar berikut : <p>
 
 ![Gambar 4](screenshot/ss4.png)
+
+<p>5.lanngkah terakhir setelah semmua berhasil masukan perintah "git push -u origin main" untuk mengirimkan perubahan file setelah di commit. conntoh seperti pada gambar berikut : <p>
+
+![Gambar 5](screenshot/ss5.png)
